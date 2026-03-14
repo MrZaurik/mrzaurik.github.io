@@ -23,7 +23,7 @@ repository               : "mrzaurik/mrzaurik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "saurith.png"
+  avatar           : "profile.png"
   name             : "Juan G. Saurith-Moreno"
   pronouns         : # example: "she/her"  
   bio              : "A statistician, but with the heart and mind of a mathematician."
